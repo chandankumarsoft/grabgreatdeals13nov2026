@@ -1,5 +1,4 @@
 <?php
-// hi
 namespace App\Controllers;
 
 use App\Libraries\LegacyCartAdapter;
