@@ -1,0 +1,15 @@
+{
+    "created_at": "2026-11-07T11:01:13+00:00",
+    "references": {
+        "tbl_baner": {
+            "baner_name": {
+                "uploads/baner/dfsafasf.png": "uploads/baner/dfsafasf.webp",
+                "uploads/baner/WIFI_Endoscope_Camera_Cover_pic.png": "uploads/baner/WIFI_Endoscope_Camera_Cover_pic.webp",
+                "uploads/baner/Bathroom_Non_Slip_Shoes_Website_cover_page.png": "uploads/baner/Bathroom_Non_Slip_Shoes_Website_cover_page.webp",
+                "uploads/baner/sadasd.png": "uploads/baner/sadasd.webp",
+                "uploads/baner/Website_cover_page.png": "uploads/baner/Website_cover_page.webp",
+                "uploads/baner/Heart_Shaped_Geometric_Necklace_jewellery.jpg": "uploads/baner/Heart_Shaped_Geometric_Necklace_jewellery.webp"
+            }
+        }
+    }
+}

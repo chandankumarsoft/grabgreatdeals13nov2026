@@ -1,0 +1,673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" style="width:100%;font-family:arial, 'helvetica neue', helvetica, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
+   <head>
+      <meta charset="UTF-8">
+      <meta content="width=device-width, initial-scale=1" name="viewport">
+      <meta name="x-apple-disable-message-reformatting">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta content="telephone=no" name="format-detection">
+      <title>grabgreatdeals.com</title>
+      <!--[if (mso 16)]>
+      <style type="text/css">
+         a {text-decoration: none;}
+      </style>
+      <![endif]--> 
+      <!--[if gte mso 9]>
+      <style>sup { font-size: 100% !important; }</style>
+      <![endif]--> 
+      <!--[if gte mso 9]>
+      <xml>
+         <o:OfficeDocumentSettings>
+            <o:AllowPNG></o:AllowPNG>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]--> 
+      <style type="text/css">
+         #outlook a {
+         padding:0;
+         }
+         .ExternalClass {
+         width:100%;
+         }
+         .ExternalClass,
+         .ExternalClass p,
+         .ExternalClass span,
+         .ExternalClass font,
+         .ExternalClass td,
+         .ExternalClass div {
+         line-height:100%;
+         }
+         .es-button {
+         mso-style-priority:100!important;
+         text-decoration:none!important;
+         }
+         a[x-apple-data-detectors] {
+         color:inherit!important;
+         text-decoration:none!important;
+         font-size:inherit!important;
+         font-family:inherit!important;
+         font-weight:inherit!important;
+         line-height:inherit!important;
+         }
+         .es-desk-hidden {
+         display:none;
+         float:left;
+         overflow:hidden;
+         width:0;
+         max-height:0;
+         line-height:0;
+         mso-hide:all;
+         }
+         @media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:150%!important } h1 { font-size:30px!important; text-align:center; line-height:120%!important } h2 { font-size:26px!important; text-align:center; line-height:120%!important } h3 { font-size:20px!important; text-align:center; line-height:120%!important } .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1 a { font-size:30px!important } .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2 a { font-size:26px!important } .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:20px!important } .es-header-body p, .es-header-body ul li, .es-header-body ol li, .es-header-body a { font-size:16px!important } .es-content-body p, .es-content-body ul li, .es-content-body ol li, .es-content-body a { font-size:16px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li, .es-footer-body a { font-size:16px!important } .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a { font-size:12px!important } *[class="gmail-fix"] { display:none!important } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-align:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-txt-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border { display:block!important } a.es-button, button.es-button { font-size:20px!important; display:block!important; border-left-width:0px!important; border-right-width:0px!important } .es-btn-fw { border-width:10px 0px!important; text-align:center!important } .es-adaptive table, .es-btn-fw, .es-btn-fw-brdr, .es-left, .es-right { width:100%!important } .es-content table, .es-header table, .es-footer table, .es-content, .es-footer, .es-header { width:100%!important; max-width:600px!important } .es-adapt-td { display:block!important; width:100%!important } .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padding:0px!important } .es-m-p0r { padding-right:0px!important } .es-m-p0l { padding-left:0px!important } .es-m-p0t { padding-top:0px!important } .es-m-p0b { padding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visible!important; float:none!important; max-height:inherit!important; line-height:inherit!important } tr.es-desk-hidden { display:table-row!important } table.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { display:table-cell!important } .es-menu td { width:1%!important } table.es-table-not-adapt, .esd-block-html table { width:auto!important } table.es-social { display:inline-block!important } table.es-social td { display:inline-block!important } .es-menu td a { font-size:16px!important } }
+      </style>
+   </head>
+   <body style="width:100%;font-family:arial, 'helvetica neue', helvetica, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
+      <div class="es-wrapper-color" style="background-color:#EFEFEF">
+         <!--[if gte mso 9]>
+         <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+            <v:fill type="tile" color="#efefef"></v:fill>
+         </v:background>
+         <![endif]--> 
+         <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top">
+            <tr style="border-collapse:collapse">
+               <td valign="top" style="padding:0;Margin:0">
+                  <table cellpadding="0" cellspacing="0" class="es-header" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table class="es-header-body" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FEF5E4;width:600px" cellspacing="0" cellpadding="0" bgcolor="#fef5e4" align="center">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" bgcolor="#ffffff" style="Margin:0;padding-top:5px;padding-bottom:5px;padding-left:15px;padding-right:15px;background-color:#FFFFFF">
+                                    <table cellspacing="0" cellpadding="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:570px">
+                                             <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td class="es-m-p0l es-m-txt-c" align="center" style="padding:0;Margin:0;padding-left:15px;font-size:0px"><a href="https://www.grabgreatdeals.com/" target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#999999;font-size:14px"><img src="https://www.seller.grabgreatdeals.com/assets/front/images/logo/sssssssss.png" alt="Petshop logo" title="Petshop logo" width="118" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <table class="es-content" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table class="es-content-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="Margin:0;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px">
+                                    <table width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td valign="top" align="center" style="padding:0;Margin:0;width:560px">
+                                             <table style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:separate;border-spacing:0px;border-radius:0px" width="100%" cellspacing="0" cellpadding="0" role="presentation">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="https://www.grabgreatdeals.com/order-list" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#D48344;font-size:14px"><img class="adapt-img" src="https://www.grabgreatdeals.com/assets/front/images/emailimage/productorderimage.jpg" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" height="373"></a></td>
+                                                </tr>
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:15px">
+                                                      <h1 style="Margin:0;line-height:36px;mso-line-height-rule:exactly;font-family:'trebuchet ms', helvetica, sans-serif;font-size:30px;font-style:normal;font-weight:normal;color:#333333"><br></h1>
+                                                   </td>
+                                                </tr>
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="Margin:0;padding-top:5px;padding-bottom:5px;padding-left:40px;padding-right:40px">
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">You'll receive an email when your items are shipped. If you have any questions, Call us&nbsp;<strong><span>&nbsp;</span>+61 488 847 228 / +1 334 345 3326</strong></p>
+                                                   </td>
+                                                </tr>
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;padding-bottom:10px;padding-top:15px"><span class="es-button-border" style="border-style:solid;border-color:#2CB543;background:#FBC705;border-width:0px;display:inline-block;border-radius:5px;width:auto;border-top-width:0px;border-bottom-width:0px"><a href="https://www.grabgreatdeals.com/order-list" class="es-button" target="_blank" style="mso-style-priority:100 !important;text-decoration:underline;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:16px;border-style:solid;border-color:#FBC705;border-width:10px 20px 10px 20px;display:inline-block;background:#FBC705;border-radius:5px;font-family:arial, 'helvetica neue', helvetica, sans-serif;font-weight:normal;font-style:normal;line-height:19px;width:auto;text-align:center;border-top-width:10px;border-bottom-width:10px">View order status</a></span></td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <table cellpadding="0" cellspacing="0" class="es-content" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px">
+                                    <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+                                             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="padding:0;Margin:0">
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Hey&nbsp;<strong><?php echo $this->session->userdata('cus_name'); ?></strong>&nbsp;, Thanks Again For Your Order</p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><br></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">This email is to confirm your order with (<a href="https://www.grabgreatdeals.com/" target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#D48344;font-size:14px">www.grabgreatdeals.com</a>).<br><br>While we process your&nbsp;order,&nbsp;please double check the details below and reply to&nbsp;this&nbsp; &nbsp; email if&nbsp; anything needs adjusting.</p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><br></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Thank you we appreciate your communication&nbsp;<br><br></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">We look forward to fulfilling your sneaker needs</p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Chandrima GhoshRoy</p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Manager</p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">(GrabGreatDeals)</p>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <?php 
+                     $orderValueSelected=$this->db->select('invoice_no,createdon')->from('tbl_order')->where('order_id',$this->session->userdata('order_id'))->get()->row(); 
+                     ?>
+                  <table cellpadding="0" cellspacing="0" class="es-content" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px">
+                                    <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+                                             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0">
+                                                      <h3 style="Margin:0;line-height:29px;mso-line-height-rule:exactly;font-family:'trebuchet ms', helvetica, sans-serif;font-size:24px;font-style:normal;font-weight:normal;color:#333333">SHIPPING TIMES</h3>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Shipping time varies by location. These are our estimates:</p>
+                                                      <table border="1" cellspacing="1" cellpadding="1" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:500px" class="es-table" role="presentation">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:center">Location</td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">*Estimated Shipping Time</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">United States</p>
+                                                            </td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">8-14 Business days</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">Canada, Europe</p>
+                                                            </td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">8-15 Business days</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">Australia, New Zealand</p>
+                                                            </td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">8-15 Business days</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">Central &amp; South America</p>
+                                                            </td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">10-20 Business days</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:center">Asia</td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">8-15 Business days</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:center">India</td>
+                                                            <td style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:center">3-7 Business days</p>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                      <em>*All shipping times exclude clearance/customs delays</em>
+                                                      <p>
+                                                         <span>This email is to confirm your order Date: <?php echo $orderValueSelected->createdon;  ?>.</span>
+                                                         <br>
+                                                         <span>Your order number is: </span><span>&nbsp;</span><strong><?php echo $orderValueSelected->invoice_no; ?></strong><span>.</span>
+                                                      </p>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <?php 
+                     $billingValueSelected=$this->db->select('B.bill_name,B.bill_email,B.bill_mobile,B.bill_address,B.bill_city,C.country,R.region,B.bill_zip')->from('tbl_billing B')->join('country C','B.bill_country = C.id','LEFT')->join('region R','B.bill_state = R.id','LEFT')->where('order_id',$this->session->userdata('order_id'))->get()->row(); 
+                     ?>
+                  <table class="es-content" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table class="es-content-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;padding-bottom:30px">
+                                    <table cellspacing="0" cellpadding="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td align="left" style="padding:0;Margin:0;width:560px">
+                                             <table style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:separate;border-spacing:0px;background-color:#FEF9EF;border-width:1px;border-style:solid;border-color:#EFEFEF" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fef9ef" role="presentation">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="Margin:0;padding-bottom:10px;padding-top:20px;padding-left:20px;padding-right:20px">
+                                                      <h4 style="Margin:0;line-height:120%;mso-line-height-rule:exactly;font-family:'trebuchet ms', helvetica, sans-serif">BILLING ADDRESS:</h4>
+                                                   </td>
+                                                </tr>
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="padding:0;Margin:0;padding-bottom:20px;padding-left:20px;padding-right:20px">
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->bill_name; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->bill_email; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->bill_mobile; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->bill_address; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->bill_city; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->country; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->region; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $billingValueSelected->bill_zip; ?></p>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <?php 
+                     $shippingValueSelected=$this->db->select('S.ship_name,S.ship_email,S.ship_mobile,S.ship_address,S.ship_city,C.country,R.region,S.ship_zip')->from('tbl_shipping S')->join('country C','S.ship_country = C.id','LEFT')->join('region R','S.ship_state = R.id','LEFT')->where('order_id',$this->session->userdata('order_id'))->get()->row(); 
+                     ?>
+                  <table class="es-content" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table class="es-content-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;padding-bottom:30px">
+                                    <table cellspacing="0" cellpadding="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td align="left" style="padding:0;Margin:0;width:560px">
+                                             <table style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:separate;border-spacing:0px;background-color:#FEF9EF;border-width:1px;border-style:solid;border-color:#EFEFEF" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fef9ef" role="presentation">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="Margin:0;padding-bottom:10px;padding-top:20px;padding-left:20px;padding-right:20px">
+                                                      <h4 style="Margin:0;line-height:120%;mso-line-height-rule:exactly;font-family:'trebuchet ms', helvetica, sans-serif">SHIPPING ADDRESS:</h4>
+                                                   </td>
+                                                </tr>
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="padding:0;Margin:0;padding-bottom:20px;padding-left:20px;padding-right:20px">
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->ship_name; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->ship_email; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->ship_mobile; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->ship_address; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->ship_city; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->country; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->region; ?></p>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><?php echo $shippingValueSelected->ship_zip; ?></p>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <table class="es-content" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table class="es-content-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="Margin:0;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px">
+                                    <!--[if mso]>
+                                    <table style="width:560px" cellpadding="0" cellspacing="0">
+                                       <tr>
+                                          <td style="width:270px" valign="top">
+                                             <![endif]--> 
+                                             <table class="es-left" cellspacing="0" cellpadding="0" align="left" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+                                                <tr style="border-collapse:collapse">
+                                                   <td class="es-m-p0r es-m-p20b" valign="top" align="center" style="padding:0;Margin:0;width:270px">
+                                                      <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td align="left" style="padding:0;Margin:0;padding-left:20px">
+                                                               <h4 style="Margin:0;line-height:120%;mso-line-height-rule:exactly;font-family:'trebuchet ms', helvetica, sans-serif">ITEMS ORDERED</h4>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                             <!--[if mso]>
+                                          </td>
+                                          <td style="width:20px"></td>
+                                          <td style="width:270px" valign="top">
+                                             <![endif]--> 
+                                             <table cellspacing="0" cellpadding="0" align="right" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="padding:0;Margin:0;width:270px">
+                                                      <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td align="left" style="padding:0;Margin:0">
+                                                               <table style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%" class="cke_show_border" cellspacing="1" cellpadding="1" border="0" role="presentation">
+                                                                  <tr style="border-collapse:collapse">
+                                                                     <td style="padding:0;Margin:0"><span style="font-size:13px">NAME</span></td>
+                                                                     <td style="padding:0;Margin:0;width:60px;text-align:center"><span style="font-size:13px"><span style="line-height:100%">QTY</span></span></td>
+                                                                     <td style="padding:0;Margin:0;width:100px;text-align:center"><span style="font-size:13px"><span style="line-height:100%">PRICE</span></span></td>
+                                                                  </tr>
+                                                               </table>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                             <!--[if mso]>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                    <![endif]-->
+                                 </td>
+                              </tr>
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:0;Margin:0;padding-left:20px;padding-right:20px">
+                                    <table width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td valign="top" align="center" style="padding:0;Margin:0;width:560px">
+                                             <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;padding-bottom:10px;font-size:0">
+                                                      <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;border-bottom:1px solid #EFEFEF;background:#FFFFFF none repeat scroll 0% 0%;height:1px;width:100%;margin:0px"></td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <?php 
+                                 $cart_content = $this->cart->contents();
+                                  $shipping_amount_value=0;
+                                   foreach ($cart_content as $items){
+                                   $shipping_amount_select=$this->db->select('shipping_amount')->from('tbl_shipping_charge')->where('id',$items['shipping_method'])->get()->row();
+                                   $shipping_amount_value+=$shipping_amount_select->shipping_amount;
+                                  ?>
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="Margin:0;padding-top:5px;padding-bottom:10px;padding-left:20px;padding-right:20px">
+                                    <!--[if mso]>
+                                    <table style="width:560px" cellpadding="0" cellspacing="0">
+                                       <tr>
+                                          <td style="width:178px" valign="top">
+                                             <![endif]--> 
+                                             <table class="es-left" cellspacing="0" cellpadding="0" align="left" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+                                                <tr style="border-collapse:collapse">
+                                                   <td class="es-m-p0r es-m-p20b" valign="top" align="center" style="padding:0;Margin:0;width:178px">
+                                                      <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td align="center" style="padding:0;Margin:0;font-size:0"><a href="javascript:void(0)" target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#D48344;font-size:14px"><img src="<?php echo 'https://www.seller.grabgreatdeals.com/'.'uploads/'. $items['options']['pro_image']?>" width="125" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                             <!--[if mso]>
+                                          </td>
+                                          <td style="width:20px"></td>
+                                          <td style="width:362px" valign="top">
+                                             <![endif]--> 
+                                             <table cellspacing="0" cellpadding="0" align="right" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="padding:0;Margin:0;width:362px">
+                                                      <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td align="left" style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><br></p>
+                                                               <table style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%" class="cke_show_border" cellspacing="1" cellpadding="1" border="0" role="presentation">
+                                                                  <tr style="border-collapse:collapse">
+                                                                     <td style="padding:0;Margin:0"><?php echo $items['name'];?></td>
+                                                                     <td style="padding:0;Margin:0;width:60px;text-align:center"><?php echo $items['qty']?></td>
+                                                                     <td style="padding:0;Margin:0;width:100px;text-align:center"><?php echo currencyConverterFunction($items['subtotal']); ?> <?php echo $this->session->userdata('currency_code_session'); ?></td>
+                                                                  </tr>
+                                                               </table>
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong>Color:&nbsp;</strong>                           <?php if ($items['options']['product_color']!='') { ?>
+                                                                  <?php $selected_color = $this->db->select('color')->from('tbl_color')->where('color_id',$items['options']['product_color'])->get()->row();
+                                                                     echo $selected_color->color;
+                                                                     ?>
+                                                                  <?php } ?>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>size:&nbsp;<span>&nbsp;</span></strong><?php if ($items['options']['product_size']!='') { ?>
+                                                                  <?php $selected_size = $this->db->select('size_name')->from('tbl_size')->where('size_id',$items['options']['product_size'])->get()->row();
+                                                                     echo $selected_size->size_name;
+                                                                     ?>
+                                                                  <?php } ?>
+                                                               </p>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                             <!--[if mso]>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                    <![endif]-->
+                                 </td>
+                              </tr>
+                              <?php } ?>
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:0;Margin:0;padding-left:20px;padding-right:20px">
+                                    <table width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td valign="top" align="center" style="padding:0;Margin:0;width:560px">
+                                             <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;padding-bottom:10px;font-size:0">
+                                                      <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;border-bottom:1px solid #EFEFEF;background:#FFFFFF none repeat scroll 0% 0%;height:1px;width:100%;margin:0px"></td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:0;Margin:0;padding-left:20px;padding-right:20px">
+                                    <table width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td valign="top" align="center" style="padding:0;Margin:0;width:560px">
+                                             <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;padding-bottom:10px;font-size:0">
+                                                      <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;border-bottom:1px solid #EFEFEF;background:#FFFFFF none repeat scroll 0% 0%;height:1px;width:100%;margin:0px"></td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <?php $cart_total = $this->cart->total(); ?>
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="Margin:0;padding-top:5px;padding-left:20px;padding-bottom:30px;padding-right:40px">
+                                    <table width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td valign="top" align="center" style="padding:0;Margin:0;width:540px">
+                                             <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="right" style="padding:0;Margin:0">
+                                                      <table style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:500px" class="cke_show_border" cellspacing="1" cellpadding="1" border="0" align="right" role="presentation">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px">Products Subtotal (<?php echo $this->cart->total_items()?>):</td>
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px"><?php echo currencyConverterFunction($cart_total); ?>&nbsp;<?php echo $this->session->userdata('currency_code_session'); ?></td>
+                                                         </tr>
+                                                         <?php
+                                                            $g_total_cart_price = preg_replace( '/[^0-9.]/', '', currencyConverterFunction($cart_total));
+                                                            $couponDiscountTotalPrice = percentageCalculator($this->session->userdata('couponprice'),$g_total_cart_price);
+                                                                                                   ?>
+                                                         <?php if ($this->session->userdata('couponprice')!='') { ?>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px">Coupon Discount:<?php  echo $this->session->userdata('couponprice').'%'; ?></td>
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px"><?php echo $this->session->userdata('currency_symbol_session'); ?><?php echo $couponDiscountTotalPrice; ?>&nbsp;<?php echo $this->session->userdata('currency_code_session'); ?></td>
+                                                         </tr>
+                                                         <?php } ?>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px">Flat-rate Shipping:</td>
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px;color:#D48344"><strong><?php 
+                                                               $this->session->set_userdata('total_shipping_charge_price',$shipping_amount_value);
+                                                               echo currencyConverterFunction($shipping_amount_value);
+                                                                $shipping_amount_value=preg_replace( '/[^0-9.]/', '', currencyConverterFunction($shipping_amount_value)); 
+                                                                $g_total_cart_price+=$shipping_amount_value;
+                                                               ?>&nbsp;<?php echo $this->session->userdata('currency_code_session'); ?></strong></td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px"><strong>Order Total:</strong></td>
+                                                            <td style="padding:0;Margin:0;text-align:right;font-size:18px;line-height:27px;color:#D48344"><strong><?php echo $this->session->userdata('currency_symbol_session'); ?><?php echo $g_total_cart_price - $couponDiscountTotalPrice; ?> &nbsp;<?php echo $this->session->userdata('currency_code_session'); ?></strong></td>
+                                                         </tr>
+                                                      </table>
+                                                      <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><br></p>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <table cellpadding="0" cellspacing="0" class="es-footer" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table class="es-footer-body" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FEF5E4;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:20px;Margin:0">
+                                    <!--[if mso]>
+                                    <table style="width:560px" cellpadding="0" cellspacing="0">
+                                       <tr>
+                                          <td style="width:270px" valign="top">
+                                             <![endif]--> 
+                                             <table class="es-left" cellspacing="0" cellpadding="0" align="left" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+                                                <tr style="border-collapse:collapse">
+                                                   <td class="es-m-p0r es-m-p20b" valign="top" align="center" style="padding:0;Margin:0;width:270px">
+                                                      <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td class="es-m-p0l es-m-txt-c" align="center" style="padding:0;Margin:0;font-size:0px"><a href="https://www.grabgreatdeals.com/" target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px"><img src="https://www.seller.grabgreatdeals.com/assets/front/images/logo/sssssssss.png" alt="Petshop logo" title="Petshop logo" width="108" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td class="es-m-txt-c" align="left" style="padding:0;Margin:0;padding-bottom:5px;padding-top:10px">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">FMT INFOTECH PTY LTD<br>Level 1, 8 Beulah Road, Norwood SA 5067, AUSTRALIA</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td class="es-m-txt-c" align="left" style="padding:0;Margin:0;padding-top:5px">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px"><a target="_blank" href="mailto:support@grabgreatdeals.com.au" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px">support@grabgreatdeals.com.au</a></p>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                             <!--[if mso]>
+                                          </td>
+                                          <td style="width:20px"></td>
+                                          <td style="width:270px" valign="top">
+                                             <![endif]--> 
+                                             <table cellspacing="0" cellpadding="0" align="right" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="left" style="padding:0;Margin:0;width:270px">
+                                                      <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td class="es-m-txt-c" align="center" style="padding:0;Margin:0;padding-top:15px;padding-bottom:20px">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:30px;color:#333333;font-size:20px">Information</p>
+                                                            </td>
+                                                         </tr>
+                                                         <tr style="border-collapse:collapse">
+                                                            <td class="es-m-txt-c" align="left" style="padding:0;Margin:0">
+                                                               <p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px;text-align:justify">Grab Great Deals provide 24x7 Customer Support, Dedicated logistics for faster deliveries, 7-14 days replacement policies, Launched fashion and lifestyle portfolios, on time deliveries guaranteed, million dollar funding, in a day guarantee, Scheduled deliveries.</p>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                             <!--[if mso]>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                    <![endif]-->
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                  <table cellpadding="0" cellspacing="0" class="es-content" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+                     <tr style="border-collapse:collapse">
+                        <td align="center" style="padding:0;Margin:0">
+                           <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                              <tr style="border-collapse:collapse">
+                                 <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px">
+                                    <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                       <tr style="border-collapse:collapse">
+                                          <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+                                             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                <tr style="border-collapse:collapse">
+                                                   <td align="center" style="padding:0;Margin:0;font-size:0">
+                                                      <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                                         <tr style="border-collapse:collapse">
+                                                            <td align="center" valign="top" style="padding:0;Margin:0;padding-right:10px"><a target="_blank" href="https://www.facebook.com/GrabGreatDeal/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#D48344;font-size:14px"><img title="Facebook" src="https://pcyixp.stripocdn.email/content/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                                                            <td align="center" valign="top" style="padding:0;Margin:0;padding-right:10px"><a target="_blank" href="https://twitter.com/GreatGrabDeals/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#D48344;font-size:14px"><img title="Twitter" src="https://pcyixp.stripocdn.email/content/assets/img/social-icons/circle-colored/twitter-circle-colored.png" alt="Tw" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                                                            <td align="center" valign="top" style="padding:0;Margin:0"><a target="_blank" href="https://www.instagram.com/ggd_australia/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#D48344;font-size:14px"><img title="Instagram" src="https://pcyixp.stripocdn.email/content/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Inst" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                                                         </tr>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+         </table>
+      </div>
+   </body>
+</html>
